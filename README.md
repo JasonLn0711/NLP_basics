@@ -33,7 +33,7 @@ This repository contains all learning scripts, notes, and mini-projects created 
 
 ```
 NLP_Learning_Track/
-├── day01_to_day14/               # Step-by-step exercises and notebooks
+├── day01_to_day14/              # Step-by-step exercises and notebooks
 ├── semantic_search_project/     # Day 14 final project: semantic search
 ├── utils/                       # Reusable NLP utilities
 ├── notes/                       # Markdown notes from each day
@@ -47,7 +47,7 @@ NLP_Learning_Track/
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/your-username/NLP_Learning_Track.git
+git clone https://github.com/JasonLn0711/NLP_basics.git
 ```
 
 2. Set up your environment:
